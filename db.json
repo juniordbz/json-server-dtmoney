@@ -1,9 +1,12 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "transactions": [
+    {
+      "description": "Desenvolvimento site",
+      "price": 15000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2024-02-17T21:41:46.951Z",
+      "id": 1
+    }
+  ]
 }
